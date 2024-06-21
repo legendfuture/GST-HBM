@@ -1,4 +1,4 @@
 # GST-HBM
 A python code for the method of GST-HBM
 
-The Python code will be aviliable when the paper of GST-HBM has been accepted.
+Please contact Yalei Yang via Yalei.Yang@Glasgow.ac.uk to get access to the GST-HBM code.
